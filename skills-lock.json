@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "design-taste-frontend": {
+      "source": "nexu-io/open-design",
+      "sourceType": "github",
+      "skillPath": "skills/taste-skill/SKILL.md",
+      "computedHash": "487467674b8b57954ddffedb5424fd77f0efdfed0c8875bcc8327d688358782f"
+    }
+  }
+}
